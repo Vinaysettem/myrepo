@@ -1,5 +1,5 @@
 import java.awt.EventQueue;
-
+// new change
 import javax.swing.JFrame;
 import javax.swing.JSplitPane;
 import java.awt.BorderLayout;
